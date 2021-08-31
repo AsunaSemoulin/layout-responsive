@@ -345,7 +345,7 @@ footer h1
 
 @media only screen and (min-width: 300px) and (max-width: 768px) {
     #banniere_image {
-        width: 100%;
+        width: 50%;
     }
 
     #banniere_description {
@@ -362,7 +362,7 @@ footer h1
     }
 
     section article p {
-        width: 100%;
+        width: 50%;
     }
 
     aside {
